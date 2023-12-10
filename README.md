@@ -1,5 +1,5 @@
 # sifreleme
-program hakkında 
+ 
 •program girilen mesajı şifrelemeye veya 
 deşifrelemeye yarar. 
 •mesaj ingiliz alfabesine uygun olmalı ve harf 
