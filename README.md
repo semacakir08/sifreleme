@@ -1,4 +1,4 @@
-# sifreleme
+#program hakkında
  
 •program girilen mesajı şifrelemeye veya 
 deşifrelemeye yarar. 
