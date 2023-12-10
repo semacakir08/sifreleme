@@ -6,7 +6,7 @@ Mesaj ingiliz alfabesine uygun olmalı ve harf
 dışında başka karakter içermemelidir.
 Şifreleme ve deşifreleme yapmak için komut 
 seçtikten sonra bir anahtar girmelisiniz. 
-Anahtar şifre veya deşifre yapılacak mesajdaki
+Anahtar şifre veya deşifre yapılacak mesajdakin
 harflerin her birini alfabeye uygun sırada 
 öteleyip mesajı şifrelemeyi veya deşifrelemeyi
 sağlar.(sezar şifreleme algoritması)
